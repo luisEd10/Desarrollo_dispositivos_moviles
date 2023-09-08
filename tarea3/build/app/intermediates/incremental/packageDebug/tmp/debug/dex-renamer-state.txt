@@ -1,0 +1,4 @@
+#Thu Sep 07 20:34:29 CST 2023
+base.0=C\:\\Users\\felin\\OneDrive\\Documentos\\ESCUELA\\Programacion de apps\\TAREAS\\tarea3\\tarea3_pdm_2023\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
