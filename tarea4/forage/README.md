@@ -16,7 +16,7 @@ es algo que no habia usado antes y no sabia como implementarla
 ademas de usar el notifylisteners que es algo parecido al setState
 
 ## Screenshots 
-<img src = "Screenshots/SS0.PNG" width="240" height="480">
-<img src = "Screenshots/SS1.PNG" width="240" height="480">
-<img src = "Screenshots/SS2.PNG" width="240" height="480">
-<img src = "Screenshots/SS3.PNG" width="240" height="480">
+<img src = "Screenshots\SS0.png" width="240" height="480"/>
+<img src = "Screenshots\SS1.png" width="240" height="480"/>
+<img src = "Screenshots\SS2.png" width="240" height="480"/>
+<img src = "Screenshots\SS3.png" width="240" height="480"/>
