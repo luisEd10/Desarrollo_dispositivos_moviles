@@ -16,7 +16,7 @@ es algo que no habia usado antes y no sabia como implementarla
 ademas de usar el notifylisteners que es algo parecido al setState
 
 ## Screenshots 
-![Alt text](/Screenshots/SS_0.png)
-![Alt text](/Screenshots/SS_1.png)
-![Alt text](/Screenshots/SS_2.png)
-![Alt text](/Screenshots/SS_3.png)
+![](/Screenshots/SS_0.png)
+![](/Screenshots/SS_1.png)
+![](/Screenshots/SS_2.png)
+![](/Screenshots/SS_3.png)
