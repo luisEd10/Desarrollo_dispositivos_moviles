@@ -16,7 +16,7 @@ es algo que no habia usado antes y no sabia como implementarla
 ademas de usar el notifylisteners que es algo parecido al setState
 
 ## Screenshots 
-![](/Screenshots/SS_0.png)
-![](/Screenshots/SS_1.png)
-![](/Screenshots/SS_2.png)
-![](/Screenshots/SS_3.png)
+<img src = "screenshots/SS0.PNG" width="240" height="480">
+<img src = "screenshots/SS1.PNG" width="240" height="480">
+<img src = "screenshots/SS2.PNG" width="240" height="480">
+<img src = "screenshots/SS3.PNG" width="240" height="480">
