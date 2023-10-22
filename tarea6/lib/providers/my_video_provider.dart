@@ -36,9 +36,9 @@ class MyVideoProvider with ChangeNotifier {
     if(_vCont != null){
       final milis = db.select('SELECT milisegundos FROM videos');
       print("datos " + "${db.select('SELECT milisegundos FROM videos')}");
-     String miliseg_str = milis.first['milisegundos'].toString();
-     int miliseg = int.parse(miliseg_str);
-      Duration position = Duration(microseconds: miliseg);
+     int miliseg_str = milis.first['milisegundos'] ?? 0;
+     //int miliseg = int.parse(miliseg_str);
+      Duration position = Duration(milliseconds: miliseg_str);
       await _vCont!.seekTo(position);
       await _vCont!.setVolume(1);
     }
@@ -54,8 +54,7 @@ class MyVideoProvider with ChangeNotifier {
   ''');
     try {
       Duration position = _vCont!.value.position;
-      int mili = position.inMilliseconds;
-      db.execute('INSERT INTO videos (milisegundos) VALUES (?)', [mili]);
+      db.execute('INSERT INTO videos (milisegundos) VALUES (?)', [position.inMilliseconds]);
 
       print("datos " + "${db.select('SELECT milisegundos FROM videos')}");
       isSaved = true;

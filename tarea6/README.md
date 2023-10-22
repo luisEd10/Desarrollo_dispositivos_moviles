@@ -14,15 +14,15 @@
 
 ## Screenshots de la app
 - homepage
-<img src = "imagenes\IMG_0.jpg" width="240" height="480"/>
+<img src = "images\IMG_0.jpg" width="240" height="480"/>
 - pide permisos y descarga el video
-<img src = "imagenes\IMG_1.jpg" width="240" height="480"/>
+<img src = "images\IMG_1.jpg" width="240" height="480"/>
 - te muestra la dir de donde se almacena el archivo
-<img src = "imagenes\IMG_2.jpg" width="240" height="480"/>
+<img src = "images\IMG_2.jpg" width="240" height="480"/>
 -pantalla para ver el video
-<img src = "imagenes\IMG_3.jpg" width="240" height="480"/>
+<img src = "images\IMG_3.jpg" width="240" height="480"/>
 - Se reproduce el video y en cualquier momento podemos guargar el progreso actual del video
-<img src = "imagenes\IMG_4.jpg" width="240" height="480"/>
+<img src = "images\IMG_4.jpg" width="240" height="480"/>
 - se puede cargar el progreso del video anteriormente con el boton "mover a"
-<img src = "imagenes\IMG_5.jpg" width="240" height="480"/>
+<img src = "images\IMG_5.jpg" width="240" height="480"/>
 
