@@ -22,8 +22,8 @@ fue relativamente sencillo
 - aqui se muestran los mensajes con los que cuenta algun chat
 <img src = "imagenes\IMG_3.jpg" width="240" height="480"/>
 - cuando se crea un nuevo chat mande a imprimir en consola que si se realiza correctamente la accion me muestre ese mensaje
-<img src = "imagenes\IMG_9.png" width="240" height="480"/>
+<img src = "imagenes\IMG_9.png"/>
 - Igual, cuando se crea o manda un nuevo msg de forma correcta me imprime en consola ese mensaje
-<img src = "imagenes\IMG_10.png" width="240" height="480"/>
+<img src = "imagenes\IMG_10.png"/>
 - se muestran los mensajes, ahora con el nuevo mensaje que se mando
 <img src = "imagenes\IMG_8.jpg" width="240" height="480"/>
