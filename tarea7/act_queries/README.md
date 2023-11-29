@@ -27,3 +27,13 @@ fue relativamente sencillo
 <img src = "imagenes\IMG_10.png"/>
 - se muestran los mensajes, ahora con el nuevo mensaje que se mando
 <img src = "imagenes\IMG_8.jpg" width="240" height="480"/>
+- Agregue un nuevo boton para acceder a los archivos
+<img src = "imagenes\IMG_28.jpg" width="240" height="480"/>
+-La ventana cuando se abre el explorador de archivos
+<img src = "imagenes\IMG_29.jpg" width="240" height="480"/>
+- Aqui se muestra la evidencia del storage 
+<img src = "imagenes\IMG_30.png">
+- Aqui muestro un mensaje en consola para validar que se actualice el usuario con el archivo
+<img src = "imagenes\IMG_31.png">
+- Aqui se muestra el archivo actualizado 
+<img src = "imagenes\IMG_32.png">
